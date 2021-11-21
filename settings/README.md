@@ -26,5 +26,5 @@ Bukan di sini okey 😉
 ```
 Terimakasih telah menggunakan Script Bot dari Zeev-X
 Jika ingin berdonasi saya akan menerimanya dengan senang hati.
-Jika serius ingin donasi klit aja "Kya onii chan" di halaman depan 
+Jika serius ingin donasi klit aja "DARLING" di halaman depan 
 ```
