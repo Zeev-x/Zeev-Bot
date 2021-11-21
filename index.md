@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## SELAMAT DATANG DI GITHUB PAGES
 
-You can use the [editor on GitHub](https://github.com/Zeev-x/Zeev-Bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hai,saya adalah [Zeev-X](https://github.com/Zeev-x) saya selaku owner atau pengembang [Zeev-Bot](https://github.com/Zeev-x/Zeev-Bot)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Saya akan memberikan tutorial pemasangan [Zeev-Bot](https://github.com/Zeev-x/Zeev-Bot)
 
-### Markdown
+### Hal-hal yang di perlukan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+• Handphone 2 buah atau bisa juga menggunakan laptop
 
-```markdown
-Syntax highlighted code block
+• Niat (semua ga bakal terjadi kalau ga ada niat)
 
-# Header 1
-## Header 2
-### Header 3
+• Aplikasi termux
 
-- Bulleted
-- List
+# Cara menginstall
+Buka terminal emulator kalian dan masukan perintah di bawah ini :
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### CARA INSTALL DI TERMUX
+```bash
+> pkg install nodejs && pkg install git
+> git clone https://github.com/Zeev-x/Zeev-Bot
+> cd Zeev-Bot
+> bash install.sh
+> npm start/node main.js
+```
+### CARA INSTALL DI LAPTOP
+```bash
+> git clone https://github.com/Zeev-x/Zeev-Bot
+> cd Zeev-Bot
+> npm i
+> npm start/node main.js
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# INSTALL
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
 
-### Jekyll Themes
+## More
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zeev-x/Zeev-Bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Link script](https://github.com/Zeev-x/Zeev-Bot)
+
+
+Untuk pengeditan script silahkan kalian lihat di Github saya
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+• [Hubungi](https://wa.me/6285755007597) saya jika kalian memerlukan bantuan.
