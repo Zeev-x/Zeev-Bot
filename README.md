@@ -16,7 +16,8 @@
 </h4>
 </p>
 
-
+## Cara install
+[Klik di sini](https://zeev-x.github.io/Zeev-Bot/)
 ## FITUR BOT
 ```bash
 
