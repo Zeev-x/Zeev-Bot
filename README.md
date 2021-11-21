@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/Zeetoyah002"><img title="Author" src="https://img.shields.io/badge/Author-Zeev-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6285755007597">Darling</a>
+  <a href="https://wa.me/6285755007597">👉 DARLING 👈</a>
 <h4 align="center">
 </h4>
 </p>
