@@ -117,7 +117,7 @@
  •>  stopjadibot
  •>  listbot
 
-NIKMATILAH YANG ADA SAAT INI.
+
 
 ```
 
