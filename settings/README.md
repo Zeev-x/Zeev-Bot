@@ -3,14 +3,16 @@
 ## Sekilas tentang settings.json
 ```
 {
-   "owner": "6285755007597", ubah aja ini ke nomor kamu.
-   "namabot": "Whatsapp-Bot", ini nama bot kamu.
-   "nameowner": "Zeev-x", ini nama kamu.
-   "exif1": "Whatsapp-Bot", ini terserah kamu mau di ganti apa enggak.
-   "exif2": "Powered by ZeevApi", ini juga terserah kamu.
-   "zeeapi": "zeev-x", ini jangan di ganti.
-   "nobot": "6285335975116", ganti nomor bot kamu.
-   "link": "https://api-zeevalya.herokuapp.com" ini jangan di ganti.
+   "owner": "6285755007597", →ganti aja
+   "namabot": "Whatsapp-Bot", →ganti aja
+   "nameowner": "Zeev-x", →ganti aja
+   "exif1": "Whatsapp-Bot", →ganti aja
+   "exif2": "Powered by ZeevApi", →jangan di ganti
+   "zeeapi": "zeev-x", →jangan di ganti
+   "nobot": "6285335975116", →ganti aja
+   "link": "https://api-zeevalya.herokuapp.com", →jangan di ganti
+   "DANA": "6285755007597", →ganti aja
+   "jdw": "*Jadwal bot* :\n• Minggu sampai Jum'at online dari pukul 19.00 sampai jam 00.00\n• Sabtu online 24 jam jika tidak ada halangan." →jangan di ganti
 }
 ```
 
